@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alvaro 👋</h1>
+<h1 align="center">Álvaro Domingo Cordón👋</h1>
 
 <h3 align="center">Junior Data Analyst | Python • SQL • Power BI</h3>
 
