@@ -18,16 +18,16 @@
 
 ### Proyectos destacados
 
-**[Steam Launch Radar](https://github.com/alvarodc093-pixel/steam-launch-radar)** · [demo](https://steam-launch-radar.vercel.app)
+**[Steam Launch Radar](https://github.com/alvarodc093-pixel/steam-launch-radar)** · [demo](https://steam-launch-radar.vercel.app)<br>
 Estima con las reseñas de los primeros días cuántas tendrá un juego de Steam al cumplir su primer mes, a partir de 3.019 lanzamientos reales y modelos validados por fecha.
 
-**[Solar España](https://github.com/alvarodc093-pixel/Energia-Solar)** · [demo](https://solar-espana.vercel.app)
+**[Solar España](https://github.com/alvarodc093-pixel/Energia-Solar)** · [demo](https://solar-espana.vercel.app)<br>
 Predice la producción solar fotovoltaica de España del día siguiente con datos de REE y Open-Meteo. Acierta el 84,5 % y los datos y el modelo se actualizan solos cada semana.
 
-**[ChurnGuard](https://github.com/alvarodc093-pixel/Churnguard-Player-Retention)** · [demo](https://no-pain-no-game.vercel.app)
+**[ChurnGuard](https://github.com/alvarodc093-pixel/Churnguard-Player-Retention)** · [demo](https://no-pain-no-game.vercel.app)<br>
 Predice qué jugadores de un juego free-to-play van a abandonarlo, entrenado con 41.560 reseñas de Steam (ROC-AUC de 0,93).
 
-**[GameScope](https://github.com/alvarodc093-pixel/GameScope)** · [demo](https://gamescope-comparador.vercel.app)
+**[GameScope](https://github.com/alvarodc093-pixel/GameScope)** · [demo](https://gamescope-comparador.vercel.app)<br>
 Compara cualquier juego con sus competidores directos cruzando IGDB, RAWG y CheapShark, con capturas semanales automáticas y 61 tests.
 
 Todos los proyectos, cada uno con su demo, están en el [portafolio](https://alvarodc093-pixel.github.io/alvarodc093.github.io/).
