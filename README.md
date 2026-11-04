@@ -38,6 +38,7 @@ Data Analyst formado en el bootcamp de Data Analyst e IA de **Upgrade Hub**. Ven
 | Proyecto | Problema de negocio y resultado | |
 |---|---|---|
 | **[Steam Launch Radar](https://github.com/alvarodc093-pixel/steam-launch-radar)**<br><sub>Python · scikit-learn · Next.js</sub> | ¿Va bien el lanzamiento de un juego? Estima las reseñas a 30 días con las de los primeros días, a partir de 3.019 lanzamientos reales y modelos validados por fecha. | [Demo](https://steam-launch-radar.vercel.app) |
+| **[Olist en SQL](https://github.com/alvarodc093-pixel/Olist-SQL-Analysis)**<br><sub>SQL · DuckDB · window functions</sub> | ¿De dónde sale el crecimiento de un e-commerce y qué lo frena? 11 consultas SQL sobre 97.905 pedidos reales (cohortes, recompra, Pareto, logística): solo el **3 %** de los clientes repite y un retraso de más de una semana hunde la nota de 4,3 a **1,7**. | [Hallazgos](https://github.com/alvarodc093-pixel/Olist-SQL-Analysis#hallazgos-principales) |
 | **[Solar España](https://github.com/alvarodc093-pixel/Energia-Solar)**<br><sub>Python · scikit-learn · Streamlit · GitHub Actions</sub> | ¿Cuánta energía solar producirá España mañana? Previsión con datos de REE y Open-Meteo que acierta el **84,5 %**, mejora a los 3 baselines y se actualiza sola cada semana. | [Demo](https://solar-espana.vercel.app) |
 | **[ChurnGuard](https://github.com/alvarodc093-pixel/Churnguard-Player-Retention)**<br><sub>Python · scikit-learn · Pandas</sub> | ¿Qué jugadores van a abandonar un juego free-to-play? Modelo de churn entrenado con 41.560 reseñas de Steam (**ROC-AUC 0,93**) que propone una acción para cada jugador. | [Demo](https://no-pain-no-game.vercel.app) |
 | **[GameScope](https://github.com/alvarodc093-pixel/GameScope)**<br><sub>Python · APIs REST · JavaScript</sub> | ¿Cómo se posiciona un juego frente a sus competidores? Cruza 1.131 juegos de tres fuentes (IGDB, RAWG y CheapShark), con capturas semanales automáticas y **61 tests**. | [Demo](https://gamescope-comparador.vercel.app) |
@@ -45,7 +46,7 @@ Data Analyst formado en el bootcamp de Data Analyst e IA de **Upgrade Hub**. Ven
 | **[DataJobs Radar](https://github.com/alvarodc093-pixel/Datajob)**<br><sub>Python · SQLite · Streamlit</sub> | ¿Qué piden las empresas a un Data Analyst? Análisis de 1.202 ofertas reales de 9 países: habilidades, salarios y teletrabajo. | [Demo](https://datajobs-radar.vercel.app) |
 | **[Twitch Game Pulse](https://github.com/alvarodc093-pixel/Twitch-Audience-Analytics)**<br><sub>Python · SQLite · Streamlit · GitHub Actions</sub> | ¿Qué juegos ganan audiencia en Twitch? Ingesta diaria automática del top 100 y dashboard de ranking, crecimiento y variabilidad. | [Demo](https://twitch-game-pulse.vercel.app) |
 
-Todos los proyectos tienen una demo que se puede probar sin instalar nada. La lista completa está en el [portafolio](https://alvarodc093-pixel.github.io/alvarodc093.github.io/).
+Los proyectos de apps tienen una demo que se puede probar sin instalar nada. La lista completa está en el [portafolio](https://alvarodc093-pixel.github.io/alvarodc093.github.io/).
 
 ## Herramientas
 
