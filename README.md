@@ -52,7 +52,7 @@ Data Analyst formado en el bootcamp de Data Analyst e IA de **Upgrade Hub**. Ven
 
 | Proyecto | Problema de negocio y resultado | |
 |---|---|---|
-| **[Steam Launch Radar](https://github.com/alvarodc093-pixel/steam-launch-radar)**<br><sub>Python · scikit-learn · Next.js</sub> | ¿Va bien el lanzamiento de un juego? Estima las reseñas a 30 días con las de los primeros días, a partir de 3.019 lanzamientos reales y modelos validados por fecha. | [Demo](https://steam-launch-radar.vercel.app) |
+| **[Steam Launch Radar](https://github.com/alvarodc093-pixel/steam-launch-radar)**<br><sub>Python · scikit-learn · Next.js</sub> | ¿Va bien el lanzamiento de un juego? Estima las reseñas a 30 días con las de los primeros días, a partir de 3.019 lanzamientos reales y modelos validados por fecha. | [Demo](https://steam-launch-radar.vercel.app)<br>[▶ Vídeo](https://alvarodc093-pixel.github.io/alvarodc093.github.io/video/presentacion-steam-launch-radar.mp4) |
 | **[Solar España](https://github.com/alvarodc093-pixel/Energia-Solar)**<br><sub>Python · scikit-learn · Streamlit · GitHub Actions</sub> | ¿Cuánta energía solar producirá España mañana? Previsión con datos de REE y Open-Meteo que acierta el **84,5 %**, mejora a los 3 baselines y se actualiza sola cada semana. | [Demo](https://solar-espana.vercel.app) |
 | **[ChurnGuard](https://github.com/alvarodc093-pixel/Churnguard-Player-Retention)**<br><sub>Python · scikit-learn · Pandas</sub> | ¿Qué jugadores van a abandonar un juego free-to-play? Modelo de churn entrenado con 41.560 reseñas de Steam (**ROC-AUC 0,93**) que propone una acción para cada jugador. | [Demo](https://no-pain-no-game.vercel.app) |
 
